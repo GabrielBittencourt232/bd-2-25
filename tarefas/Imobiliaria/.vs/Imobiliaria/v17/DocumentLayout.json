@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FCDBCC-3AE4-4273-9A35-4A301355DF8F}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\tarefas\\imobiliaria\\imobiliaria\\data\\dbinitalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2FCDBCC-3AE4-4273-9A35-4A301355DF8F}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\data\\dbinitalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FCDBCC-3AE4-4273-9A35-4A301355DF8F}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\tarefas\\imobiliaria\\imobiliaria\\data\\imobiliariacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2FCDBCC-3AE4-4273-9A35-4A301355DF8F}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\data\\imobiliariacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2FCDBCC-3AE4-4273-9A35-4A301355DF8F}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\tarefas\\imobiliaria\\imobiliaria\\models\\imovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2FCDBCC-3AE4-4273-9A35-4A301355DF8F}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\models\\imovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Imovel.cs",
+              "DocumentMoniker": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\Models\\Imovel.cs",
+              "RelativeDocumentMoniker": "Imobiliaria\\Models\\Imovel.cs",
+              "ToolTip": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\Models\\Imovel.cs",
+              "RelativeToolTip": "Imobiliaria\\Models\\Imovel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:43:48.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImobiliariaContext.cs",
+              "DocumentMoniker": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\Data\\ImobiliariaContext.cs",
+              "RelativeDocumentMoniker": "Imobiliaria\\Data\\ImobiliariaContext.cs",
+              "ToolTip": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\Data\\ImobiliariaContext.cs",
+              "RelativeToolTip": "Imobiliaria\\Data\\ImobiliariaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:42:58.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbInitalizer.cs",
+              "DocumentMoniker": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\Data\\DbInitalizer.cs",
+              "RelativeDocumentMoniker": "Imobiliaria\\Data\\DbInitalizer.cs",
+              "ToolTip": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\Data\\DbInitalizer.cs",
+              "RelativeToolTip": "Imobiliaria\\Data\\DbInitalizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:41:58.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

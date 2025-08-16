@@ -1,0 +1,9 @@
+comandos prompt:
+
+dotnet tool install --global dotnet-ef
+dotnet ef migrations add Initial
+dotnet ef database update
+
+
+tarefa:
+criar um projeto novo, pegar o banco de dados da floricultura e fazer ele via code first e mudar as classes
