@@ -1,11 +1,13 @@
-﻿namespace Imobiliaria.Models
+﻿using System.ComponentModel.DataAnnotations;
+using System.Globalization;
+
+namespace Imobiliaria.Models
 {
     public class Imovel
     {
-        public int Id { get; set; }
-        public string? Descricao { get; set; }
-        public decimal Preco { get; set; }
-        public int Quartos { get; set; }
-        public int Nome { get; set; }
+        [Key]
+        public int ImovelID { get; set; }
+        public String? Nome { get; set; }
+
     }
 }
