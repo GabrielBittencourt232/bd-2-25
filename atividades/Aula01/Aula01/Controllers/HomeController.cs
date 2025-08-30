@@ -51,6 +51,18 @@ namespace Aula01.Controllers
             await _studentRepository.Delete(student);
             return RedirectToAction("Index");
         }
+
+        [HttpPatch]
+
+        public async Task<IActionResult> Update(Student student)
+        {
+            if (ModelState.IsValid)
+            {
+                await _studentRepository.Update(student);
+                return RedirectToAction("Index");
+            }
+            return View(student);
+        }
         public IActionResult Privacy()
         {
             return View();
