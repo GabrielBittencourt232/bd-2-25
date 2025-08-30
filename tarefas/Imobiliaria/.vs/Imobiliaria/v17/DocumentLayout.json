@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\tarefas\\imobiliaria\\imobiliaria\\models\\imovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\models\\imovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\tarefas\\imobiliaria\\imobiliaria\\models\\residente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\models\\residente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\tarefas\\imobiliaria\\imobiliaria\\models\\residenteimovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\models\\residenteimovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\tarefas\\imobiliaria\\imobiliaria\\data\\imobicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\data\\imobicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\tarefas\\imobiliaria\\imobiliaria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\tarefas\\imobiliaria\\imobiliaria\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +15,20 @@
       "RelativeMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\tarefas\\imobiliaria\\imobiliaria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\tarefas\\imobiliaria\\imobiliaria\\models\\residente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\models\\residente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\tarefas\\imobiliaria\\imobiliaria\\models\\imovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\models\\imovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\tarefas\\imobiliaria\\imobiliaria\\models\\residenteimovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\models\\residenteimovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\tarefas\\imobiliaria\\imobiliaria\\data\\imobicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\data\\imobicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\appsettings.json",
               "RelativeDocumentMoniker": "Imobiliaria\\appsettings.json",
@@ -51,11 +51,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-08-16T01:07:26.086Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\Program.cs",
               "RelativeDocumentMoniker": "Imobiliaria\\Program.cs",
@@ -68,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\Data\\DbInitializer.cs",
               "RelativeDocumentMoniker": "Imobiliaria\\Data\\DbInitializer.cs",
@@ -81,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ImobiContext.cs",
               "DocumentMoniker": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\Data\\ImobiContext.cs",
               "RelativeDocumentMoniker": "Imobiliaria\\Data\\ImobiContext.cs",
@@ -94,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ResidenteImovel.cs",
               "DocumentMoniker": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\Models\\ResidenteImovel.cs",
               "RelativeDocumentMoniker": "Imobiliaria\\Models\\ResidenteImovel.cs",
@@ -107,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Residente.cs",
               "DocumentMoniker": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\Models\\Residente.cs",
               "RelativeDocumentMoniker": "Imobiliaria\\Models\\Residente.cs",
@@ -120,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Imovel.cs",
               "DocumentMoniker": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\Models\\Imovel.cs",
               "RelativeDocumentMoniker": "Imobiliaria\\Models\\Imovel.cs",

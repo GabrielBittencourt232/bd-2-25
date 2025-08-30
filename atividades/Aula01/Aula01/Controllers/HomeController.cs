@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Aula01.Data;
 using Aula01.Models;
+using Aula01.Repository;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Aula01.Controllers
@@ -8,19 +9,48 @@ namespace Aula01.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-        private readonly SchoolContext _context;
+        private readonly IStudentRepository _studentRepository;
 
-        public HomeController(ILogger<HomeController> logger, SchoolContext context)
+        public HomeController(ILogger<HomeController> logger, IStudentRepository studentRepository)
         {
             _logger = logger;
-            _context = context;
+            _studentRepository = studentRepository;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View(_context.Students.ToList());
+            return View( await _studentRepository.GetAll());
         }
 
+        [HttpPost]
+        public async Task<IActionResult> Create(Student student)
+        {
+            if (ModelState.IsValid)
+            {
+                await _studentRepository.Create(student);
+                return RedirectToAction("Index");
+            }
+            return View(student);
+        }
+
+        [HttpGet]
+
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var student = await _studentRepository.GetById(id);
+            if (student == null)
+            {
+                return NotFound();
+            }
+            await _studentRepository.Delete(student);
+            return RedirectToAction("Index");
+        }
         public IActionResult Privacy()
         {
             return View();

@@ -7,3 +7,18 @@ dotnet ef database update
 
 tarefa:
 criar um projeto novo, pegar o banco de dados da floricultura e fazer ele via code first e mudar as classes
+
+
+------------------
+
+MVC
+
+USUÁRIO
+|
+View
+|
+Controller
+|
+Repository
+|
+Model

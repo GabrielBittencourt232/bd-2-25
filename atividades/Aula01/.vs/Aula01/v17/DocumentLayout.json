@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|solutionrelative:aula01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\atividades\\aula01\\aula01\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|solutionrelative:aula01\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\atividades\\aula01\\aula01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|solutionrelative:aula01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\atividades\\aula01\\aula01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|solutionrelative:aula01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,22 +36,48 @@
               "RelativeDocumentMoniker": "Aula01\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Aula01\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-22T23:17:32.281Z",
+              "WhenOpened": "2025-08-30T00:13:46.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Aula01\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Aula01\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T00:12:00.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Aula01\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Aula01\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T22:58:46.257Z",
+              "WhenOpened": "2025-08-29T23:32:10.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Program.cs",
+              "RelativeDocumentMoniker": "Aula01\\Program.cs",
+              "ToolTip": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Program.cs",
+              "RelativeToolTip": "Aula01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T23:29:13.475Z",
               "EditorCaption": ""
             }
           ]

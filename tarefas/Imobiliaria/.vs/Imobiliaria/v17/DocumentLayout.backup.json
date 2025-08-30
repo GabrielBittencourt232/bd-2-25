@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\427985\\Desktop\\bd2\\Atividades\\Imobiliaria\\",
+  "WorkspaceRootPath": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427985\\desktop\\bd2\\atividades\\imobiliaria\\imobiliaria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\tarefas\\imobiliaria\\imobiliaria\\models\\imovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\models\\imovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427985\\desktop\\bd2\\atividades\\imobiliaria\\imobiliaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427985\\desktop\\bd2\\atividades\\imobiliaria\\imobiliaria\\data\\imobicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\data\\imobicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427985\\desktop\\bd2\\atividades\\imobiliaria\\imobiliaria\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427985\\desktop\\bd2\\atividades\\imobiliaria\\imobiliaria\\models\\resisdenteimovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\models\\resisdenteimovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427985\\desktop\\bd2\\atividades\\imobiliaria\\imobiliaria\\models\\residente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\tarefas\\imobiliaria\\imobiliaria\\models\\residente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\models\\residente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427985\\desktop\\bd2\\atividades\\imobiliaria\\imobiliaria\\models\\imovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\models\\imovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\tarefas\\imobiliaria\\imobiliaria\\models\\residenteimovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\models\\residenteimovel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\tarefas\\imobiliaria\\imobiliaria\\data\\imobicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\data\\imobicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\tarefas\\imobiliaria\\imobiliaria\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\tarefas\\imobiliaria\\imobiliaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\tarefas\\imobiliaria\\imobiliaria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44FD7597-6206-42DC-977D-2B4E26571473}|Imobiliaria\\Imobiliaria.csproj|solutionrelative:imobiliaria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,15 +38,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\427985\\Desktop\\bd2\\Atividades\\Imobiliaria\\Imobiliaria\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\appsettings.json",
               "RelativeDocumentMoniker": "Imobiliaria\\appsettings.json",
-              "ToolTip": "C:\\Users\\427985\\Desktop\\bd2\\Atividades\\Imobiliaria\\Imobiliaria\\appsettings.json",
+              "ToolTip": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\appsettings.json",
               "RelativeToolTip": "Imobiliaria\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -55,75 +55,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\427985\\Desktop\\bd2\\Atividades\\Imobiliaria\\Imobiliaria\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\Program.cs",
               "RelativeDocumentMoniker": "Imobiliaria\\Program.cs",
-              "ToolTip": "C:\\Users\\427985\\Desktop\\bd2\\Atividades\\Imobiliaria\\Imobiliaria\\Program.cs",
+              "ToolTip": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\Program.cs",
               "RelativeToolTip": "Imobiliaria\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T01:03:10.719Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\427985\\Desktop\\bd2\\Atividades\\Imobiliaria\\Imobiliaria\\Data\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "Imobiliaria\\Data\\DbInitializer.cs",
-              "ToolTip": "C:\\Users\\427985\\Desktop\\bd2\\Atividades\\Imobiliaria\\Imobiliaria\\Data\\DbInitializer.cs",
-              "RelativeToolTip": "Imobiliaria\\Data\\DbInitializer.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T00:58:37.488Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ImobiContext.cs",
-              "DocumentMoniker": "C:\\Users\\427985\\Desktop\\bd2\\Atividades\\Imobiliaria\\Imobiliaria\\Data\\ImobiContext.cs",
-              "RelativeDocumentMoniker": "Imobiliaria\\Data\\ImobiContext.cs",
-              "ToolTip": "C:\\Users\\427985\\Desktop\\bd2\\Atividades\\Imobiliaria\\Imobiliaria\\Data\\ImobiContext.cs",
-              "RelativeToolTip": "Imobiliaria\\Data\\ImobiContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T00:57:49.224Z"
+              "WhenOpened": "2025-08-16T01:03:10.719Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ResisdenteImovel.cs",
-              "DocumentMoniker": "C:\\Users\\427985\\Desktop\\bd2\\Atividades\\Imobiliaria\\Imobiliaria\\Models\\ResisdenteImovel.cs",
-              "RelativeDocumentMoniker": "Imobiliaria\\Models\\ResisdenteImovel.cs",
-              "ToolTip": "C:\\Users\\427985\\Desktop\\bd2\\Atividades\\Imobiliaria\\Imobiliaria\\Models\\ResisdenteImovel.cs",
-              "RelativeToolTip": "Imobiliaria\\Models\\ResisdenteImovel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Imobiliaria\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Imobiliaria\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T00:41:31.301Z"
+              "WhenOpened": "2025-08-16T00:58:37.488Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "ImobiContext.cs",
+              "DocumentMoniker": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\Data\\ImobiContext.cs",
+              "RelativeDocumentMoniker": "Imobiliaria\\Data\\ImobiContext.cs",
+              "ToolTip": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\Data\\ImobiContext.cs",
+              "RelativeToolTip": "Imobiliaria\\Data\\ImobiContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:57:49.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResidenteImovel.cs",
+              "DocumentMoniker": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\Models\\ResidenteImovel.cs",
+              "RelativeDocumentMoniker": "Imobiliaria\\Models\\ResidenteImovel.cs",
+              "ToolTip": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\Models\\ResidenteImovel.cs",
+              "RelativeToolTip": "Imobiliaria\\Models\\ResidenteImovel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T00:41:31.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Residente.cs",
-              "DocumentMoniker": "C:\\Users\\427985\\Desktop\\bd2\\Atividades\\Imobiliaria\\Imobiliaria\\Models\\Residente.cs",
+              "DocumentMoniker": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\Models\\Residente.cs",
               "RelativeDocumentMoniker": "Imobiliaria\\Models\\Residente.cs",
-              "ToolTip": "C:\\Users\\427985\\Desktop\\bd2\\Atividades\\Imobiliaria\\Imobiliaria\\Models\\Residente.cs",
+              "ToolTip": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\Models\\Residente.cs",
               "RelativeToolTip": "Imobiliaria\\Models\\Residente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T00:39:23.803Z"
+              "WhenOpened": "2025-08-16T00:39:23.803Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Imovel.cs",
-              "DocumentMoniker": "C:\\Users\\427985\\Desktop\\bd2\\Atividades\\Imobiliaria\\Imobiliaria\\Models\\Imovel.cs",
+              "DocumentMoniker": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\Models\\Imovel.cs",
               "RelativeDocumentMoniker": "Imobiliaria\\Models\\Imovel.cs",
-              "ToolTip": "C:\\Users\\427985\\Desktop\\bd2\\Atividades\\Imobiliaria\\Imobiliaria\\Models\\Imovel.cs",
+              "ToolTip": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\tarefas\\Imobiliaria\\Imobiliaria\\Models\\Imovel.cs",
               "RelativeToolTip": "Imobiliaria\\Models\\Imovel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T00:36:47.929Z"
+              "WhenOpened": "2025-08-16T00:36:47.929Z",
+              "EditorCaption": ""
             }
           ]
         }
