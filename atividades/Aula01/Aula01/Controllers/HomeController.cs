@@ -40,6 +40,40 @@ namespace Aula01.Controllers
             return View();
         }
 
+
+        [HttpGet]
+        public async Task<IActionResult> Edit(int? id)
+        {
+            if(!id.HasValue)
+                return BadRequest();
+
+            var student =  await _studentRepository.GetById(id.Value);
+
+            if (student is null)
+                return NotFound();
+
+            return View(student);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Edit(int? id, Student student)
+        { 
+            if(!id.HasValue)
+                return BadRequest();
+
+            if(id != student.ID)
+                return BadRequest();
+
+            if (ModelState.IsValid)
+            {
+                await _studentRepository.Update(student);
+                return RedirectToAction("Index");
+            }
+            return View(student);
+        }
+
+
+
         [HttpPost]
         public async Task<IActionResult> Delete(int id)
         {
@@ -52,17 +86,7 @@ namespace Aula01.Controllers
             return RedirectToAction("Index");
         }
 
-        [HttpPatch]
 
-        public async Task<IActionResult> Update(Student student)
-        {
-            if (ModelState.IsValid)
-            {
-                await _studentRepository.Update(student);
-                return RedirectToAction("Index");
-            }
-            return View(student);
-        }
         public IActionResult Privacy()
         {
             return View();

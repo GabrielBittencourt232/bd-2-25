@@ -16,7 +16,6 @@
                 <th>Sobrenome</th>
                 <th>Data matrícula</th>
                 <th>Excluir</th>
-                <th>Atualizar</th>
             </tr>
         </thead>
 
@@ -29,15 +28,11 @@
                     <td>@s.LastName</td>
                     <td>@s.EnrollmentDate.ToShortDateString()</td>
                     <td>
+                        <a asp-controller="Home"
+                           asp-action="Edit" asp-route-id="@s.ID" class="btn btn-primary btn-sm">Editar</a>
                         <form asp-controller="Home" asp-action="Delete" method="post">
                             <input type="hidden" name="id" value="@s.ID" />
                             <button type="submit" class="btn btn-danger btn-sm">Excluir</button>
-                        </form>
-                    </td>
-                    <td>
-                        <form asp-controller="Home" asp-action="Update" method="patch">
-                            <input type="hidden" name="id" value="@s.ID" />
-                            <button type="submit" class="btn btn-warning btn-sm">Atualizar</button>
                         </form>
                     </td>
                 </tr>
