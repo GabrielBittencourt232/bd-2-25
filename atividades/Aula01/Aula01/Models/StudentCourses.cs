@@ -17,5 +17,9 @@ namespace Aula01.Models
 
         [ForeignKey(nameof(CourseID))]
         public Course? Course { get; set; }
+
+        public DateTime SignDate { get; set; } 
+
+        public DateTime? CancelDate { get; set; }
     }
 }
