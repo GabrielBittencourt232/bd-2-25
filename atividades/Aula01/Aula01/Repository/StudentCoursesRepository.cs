@@ -1,63 +1,103 @@
 ﻿using Aula01.Data;
 using Aula01.Models;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Identity.Client;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
-
-namespace Aula01.Repository
+namespace Aula02.Repository
 {
     public class StudentCoursesRepository : IStudentCoursesRepository
     {
-        private readonly SchoolContext _schoolContext;
-        public async Task Create(StudentCourses studentCourse)
+        private readonly SchoolContext _context;
+
+        public StudentCoursesRepository(SchoolContext schoolContext)
         {
-           await _schoolContext.StudentCourses.AddAsync(studentCourse);
-           await _schoolContext.SaveChangesAsync();
+            _context = schoolContext;
         }
 
-        public async Task Delete(StudentCourses studentCourse)
+        // --- MÉTODOS DE MANIPULAÇÃO DE DADOS (CUD) ---
+
+        public async Task Create(StudentCourses studentCourses)
         {
-         _schoolContext.StudentCourses.Remove(studentCourse);
-            await _schoolContext.SaveChangesAsync();
+            await _context.StudentCourses.AddAsync(studentCourses);
+            await _context.SaveChangesAsync();
         }
 
-        public async Task<List<StudentCourses?>> Get(int StudentId, int courseId)
+        public async Task Update(int? originalStudentId, int? originalCourseId, StudentCourses studentCourseNewData)
         {
-            var data = await _schoolContext.StudentCourses
+            var studentCourseOld = await _context.StudentCourses
+                .FindAsync(originalStudentId, originalCourseId);
+
+            if (studentCourseOld != null)
+            {
+                // Remove o registro antigo
+                _context.StudentCourses.Remove(studentCourseOld);
+                await _context.SaveChangesAsync();
+
+                // Adiciona o novo registro com os dados atualizados
+                await _context.StudentCourses.AddAsync(studentCourseNewData);
+                await _context.SaveChangesAsync();
+            }
+        }
+        public async Task Delete(StudentCourses studentCourses)
+        {
+            _context.StudentCourses.Remove(studentCourses);
+            await _context.SaveChangesAsync();
+        }
+
+        // --- MÉTODOS DE CONSULTA (READ) ---
+
+        public async Task<StudentCourses?> Get(int studentId, int courseId)
+        {
+            return await _context.StudentCourses
                 .Include(x => x.Course)
                 .Include(x => x.Student)
-                .Where(w => w.StudentID == StudentId && w.CourseID == courseId)
-                .FirstOrDefaultAsync();
-            return data;
+                .FirstOrDefaultAsync(w => w.StudentID == studentId && w.CourseID == courseId);
         }
 
-        public Task<List<StudentCourses>> GetAll()
+        public async Task<List<StudentCourses>> GetAll()
         {
-            var data = _schoolContext.StudentCourses
+            return await _context.StudentCourses
                 .Include(x => x.Course)
                 .Include(x => x.Student)
-                .FirstOrDefault();
-            return data;
+                .ToListAsync();
         }
 
-        public Task<StudentCourses?> GetByCourseId(int courseId)
+        public async Task<List<StudentCourses>> GetByCourseId(int courseId)
         {
-            throw new NotImplementedException();
+            return await _context.StudentCourses
+                .Include(x => x.Course)
+                .Include(x => x.Student)
+                .Where(w => w.CourseID == courseId)
+                .ToListAsync();
         }
 
-        public Task<List<StudentCourses>> GetByCourseName(string name)
+        public async Task<List<StudentCourses>> GetByStudentId(int studentId)
         {
-            throw new NotImplementedException();
+            return await _context.StudentCourses
+                .Include(x => x.Course)
+                .Include(x => x.Student)
+                .Where(w => w.StudentID == studentId)
+                .ToListAsync();
         }
 
-        public Task<StudentCourses?> GetByStudentId(int studentId)
+        public async Task<List<StudentCourses>> GetByCourseName(string courseName)
         {
-            throw new NotImplementedException();
+            return await _context.StudentCourses
+                .Include(x => x.Course)
+                .Include(x => x.Student)
+                .Where(w => w.Course != null && w.Course.Name != null && w.Course.Name.ToLower().Contains(courseName.ToLower()))
+                .ToListAsync();
         }
 
-        public Task Update(StudentCourses studentCourse)
+        public async Task<List<StudentCourses>> GetByStudentName(string name)
         {
-            throw new NotImplementedException();
+            return await _context.StudentCourses
+                .Include(x => x.Course)
+                .Include(x => x.Student)
+                .Where(w => w.Student != null && w.Student.FirstMidName != null && w.Student.FirstMidName.ToLower().Contains(name.ToLower()))
+                .ToListAsync();
         }
     }
 }

@@ -1,6 +1,7 @@
 using Aula01.Data;
-using Microsoft.EntityFrameworkCore;
 using Aula01.Repository;
+using Aula02.Repository;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +12,8 @@ builder.Services.AddDbContext<SchoolContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddScoped<IStudentRepository, StudentRepository>();
+builder.Services.AddScoped<ICourseRepository, CourseRepository>();
+builder.Services.AddScoped<IStudentCoursesRepository, StudentCoursesRepository>();
 
 var app = builder.Build();
 
