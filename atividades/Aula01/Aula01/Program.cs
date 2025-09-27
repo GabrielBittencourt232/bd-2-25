@@ -1,6 +1,5 @@
 using Aula01.Data;
 using Aula01.Repository;
-using Aula02.Repository;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Aula02.Repository
+namespace Aula01.Repository
 {
     public class StudentCoursesRepository : IStudentCoursesRepository
     {

@@ -1,54 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\bd-2-25\\bd-2-25\\atividades\\Aula01\\",
+  "WorkspaceRootPath": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\atividades\\Aula01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|c:\\users\\gabri\\onedrive\\documentos\\bd-2-25\\bd-2-25\\atividades\\aula01\\aula01\\views\\course\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|solutionrelative:aula01\\views\\course\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\atividades\\aula01\\aula01\\views\\studentcourses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|solutionrelative:aula01\\views\\studentcourses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|c:\\users\\gabri\\onedrive\\documentos\\bd-2-25\\bd-2-25\\atividades\\aula01\\aula01\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|solutionrelative:aula01\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\atividades\\aula01\\aula01\\controllers\\studentcoursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|solutionrelative:aula01\\controllers\\studentcoursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|c:\\users\\gabri\\onedrive\\documentos\\bd-2-25\\bd-2-25\\atividades\\aula01\\aula01\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|solutionrelative:aula01\\views\\course\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\atividades\\aula01\\aula01\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|solutionrelative:aula01\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|c:\\users\\gabri\\onedrive\\documentos\\bd-2-25\\bd-2-25\\atividades\\aula01\\aula01\\repository\\studentcoursesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|solutionrelative:aula01\\repository\\studentcoursesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\atividades\\aula01\\aula01\\viewmodels\\studentcourses\\studentcoursesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|solutionrelative:aula01\\viewmodels\\studentcourses\\studentcoursesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|c:\\users\\gabri\\onedrive\\documentos\\bd-2-25\\bd-2-25\\atividades\\aula01\\aula01\\repository\\istudentcoursesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|solutionrelative:aula01\\repository\\istudentcoursesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|c:\\users\\gabri\\onedrive\\documentos\\bd-2-25\\bd-2-25\\atividades\\aula01\\aula01\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|solutionrelative:aula01\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|c:\\users\\gabri\\onedrive\\documentos\\bd-2-25\\bd-2-25\\atividades\\aula01\\aula01\\repository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|solutionrelative:aula01\\repository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|c:\\users\\gabri\\onedrive\\documentos\\bd-2-25\\bd-2-25\\atividades\\aula01\\aula01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|solutionrelative:aula01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|c:\\users\\gabri\\onedrive\\documentos\\bd-2-25\\bd-2-25\\atividades\\aula01\\aula01\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|solutionrelative:aula01\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|c:\\users\\gabri\\onedrive\\documentos\\bd-2-25\\bd-2-25\\atividades\\aula01\\aula01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|solutionrelative:aula01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|c:\\users\\gabri\\onedrive\\documentos\\bd-2-25\\bd-2-25\\atividades\\aula01\\aula01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|solutionrelative:aula01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|c:\\users\\gabri\\onedrive\\documentos\\bd-2-25\\bd-2-25\\atividades\\aula01\\aula01\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|solutionrelative:aula01\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|c:\\users\\427326\\documents\\bd-2-25\\bd-2-25\\atividades\\aula01\\aula01\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01D58840-B21F-43CD-A400-11DFB168301B}|Aula01\\Aula01.csproj|solutionrelative:aula01\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,160 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Aula01\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Aula01\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAcwEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T23:32:10.108Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Views\\Course\\Update.cshtml",
-              "RelativeDocumentMoniker": "Aula01\\Views\\Course\\Update.cshtml",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Views\\Course\\Update.cshtml",
-              "RelativeToolTip": "Aula01\\Views\\Course\\Update.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Views\\StudentCourses\\Create.cshtml",
+              "RelativeDocumentMoniker": "Aula01\\Views\\StudentCourses\\Create.cshtml",
+              "ToolTip": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Views\\StudentCourses\\Create.cshtml",
+              "RelativeToolTip": "Aula01\\Views\\StudentCourses\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-25T21:55:18.02Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Views\\Course\\Index.cshtml",
-              "RelativeDocumentMoniker": "Aula01\\Views\\Course\\Index.cshtml",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Views\\Course\\Index.cshtml",
-              "RelativeToolTip": "Aula01\\Views\\Course\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-25T21:54:38.392Z",
+              "WhenOpened": "2025-09-27T00:17:29.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Views\\Course\\Create.cshtml",
-              "RelativeDocumentMoniker": "Aula01\\Views\\Course\\Create.cshtml",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Views\\Course\\Create.cshtml",
-              "RelativeToolTip": "Aula01\\Views\\Course\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-25T21:53:24.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudentCoursesRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Repository\\StudentCoursesRepository.cs",
-              "RelativeDocumentMoniker": "Aula01\\Repository\\StudentCoursesRepository.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Repository\\StudentCoursesRepository.cs",
-              "RelativeToolTip": "Aula01\\Repository\\StudentCoursesRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Aula01\\Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "Aula01\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T21:51:51.823Z",
+              "WhenOpened": "2025-09-26T23:41:52.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IStudentCoursesRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Repository\\IStudentCoursesRepository.cs",
-              "RelativeDocumentMoniker": "Aula01\\Repository\\IStudentCoursesRepository.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Repository\\IStudentCoursesRepository.cs",
-              "RelativeToolTip": "Aula01\\Repository\\IStudentCoursesRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Repository\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Aula01\\Repository\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Repository\\IStudentRepository.cs",
+              "RelativeToolTip": "Aula01\\Repository\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T21:50:35.847Z",
+              "WhenOpened": "2025-09-26T23:40:48.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ICourseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Repository\\ICourseRepository.cs",
-              "RelativeDocumentMoniker": "Aula01\\Repository\\ICourseRepository.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Repository\\ICourseRepository.cs",
-              "RelativeToolTip": "Aula01\\Repository\\ICourseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "StudentCoursesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\ViewModels\\StudentCourses\\StudentCoursesViewModel.cs",
+              "RelativeDocumentMoniker": "Aula01\\ViewModels\\StudentCourses\\StudentCoursesViewModel.cs",
+              "ToolTip": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\ViewModels\\StudentCourses\\StudentCoursesViewModel.cs",
+              "RelativeToolTip": "Aula01\\ViewModels\\StudentCourses\\StudentCoursesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T21:50:03.487Z",
+              "WhenOpened": "2025-09-26T23:19:39.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CourseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Repository\\CourseRepository.cs",
-              "RelativeDocumentMoniker": "Aula01\\Repository\\CourseRepository.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Repository\\CourseRepository.cs",
-              "RelativeToolTip": "Aula01\\Repository\\CourseRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowAIAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "StudentCoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Controllers\\StudentCoursesController.cs",
+              "RelativeDocumentMoniker": "Aula01\\Controllers\\StudentCoursesController.cs",
+              "ToolTip": "C:\\Users\\427326\\Documents\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Controllers\\StudentCoursesController.cs",
+              "RelativeToolTip": "Aula01\\Controllers\\StudentCoursesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCYAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T21:49:17.246Z",
+              "WhenOpened": "2025-09-26T22:31:32.022Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Views\\Home\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Aula01\\Views\\Home\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Views\\Home\\Edit.cshtml",
-              "RelativeToolTip": "Aula01\\Views\\Home\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T22:52:38.759Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Aula01\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Aula01\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBEAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-30T00:13:46.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Views\\Home\\Create.cshtml",
-              "RelativeDocumentMoniker": "Aula01\\Views\\Home\\Create.cshtml",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Views\\Home\\Create.cshtml",
-              "RelativeToolTip": "Aula01\\Views\\Home\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-30T00:12:00.737Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Program.cs",
-              "RelativeDocumentMoniker": "Aula01\\Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\bd-2-25\\bd-2-25\\atividades\\Aula01\\Aula01\\Program.cs",
-              "RelativeToolTip": "Aula01\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAkwB8AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T23:29:13.475Z"
             }
           ]
         }

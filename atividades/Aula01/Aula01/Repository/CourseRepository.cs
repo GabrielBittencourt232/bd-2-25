@@ -3,7 +3,7 @@ using Aula01.Models;
 using Aula01.Repository;
 using Microsoft.EntityFrameworkCore;
 
-namespace Aula02.Repository
+namespace Aula01.Repository
 {
     public class CourseRepository : ICourseRepository
     {

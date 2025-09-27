@@ -1,5 +1,6 @@
 ﻿using Aula01.Data;
 using Aula01.Models;
+using Aula01.Repository;
 using Microsoft.EntityFrameworkCore;
 
 namespace Aula01.Repository
@@ -27,19 +28,50 @@ namespace Aula01.Repository
 
         public async Task<List<Student>> GetAll()
         {
-            var data = await _context.Students.ToListAsync();
+            var data = await _context.Students
+                                .Include(sc => sc.StudentCourses!)
+                                    .ThenInclude(c => c.Course)
+                                .ToListAsync();
+            return data;
+        }
+
+        public async Task<List<Student>> GetAllNotEnrolled()
+        {
+            var enrolledStudentIds = _context.StudentCourses
+                .Select(sc => sc.StudentID)
+                .Distinct();
+
+            var data = await _context.Students
+                    .Include(sc => sc.StudentCourses!)
+                        .ThenInclude(c => c.Course)
+                        .Where(w => !enrolledStudentIds.Contains(w.ID))
+                        .OrderBy(s => s.FirstMidName)
+                    .ToListAsync();
             return data;
         }
 
         public async Task<Student?> GetById(int id)
         {
-            var student = await _context.Students.Where(s => s.ID == id).FirstOrDefaultAsync();
+            var student =
+                await _context
+                        .Students
+                        .Where(s => s.ID == id)
+                        .FirstOrDefaultAsync();
+
             return student;
         }
 
         public async Task<List<Student>> GetByName(string name)
         {
-            var students = await _context.Students.Where(s => s.FirstMidName!.ToLower().Contains(name.ToLower())).ToListAsync();
+            var students =
+                await _context
+                        .Students
+                        .Where(s => s.FirstMidName!
+                            .ToLower()
+                            .Contains(name.ToLower())
+                        )
+                        .ToListAsync();
+
             return students;
         }
 

@@ -1,6 +1,6 @@
 ﻿using Aula01.Models;
 
-namespace Aula02.Repository
+namespace Aula01.Repository
 {
     public interface ICourseRepository
     {
