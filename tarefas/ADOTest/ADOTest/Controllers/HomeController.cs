@@ -1,9 +1,8 @@
 using System.Diagnostics;
+using ADOTest.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Data.SqlClient;
-using Scaffolding.Models;
 
-namespace Scaffolding.Controllers
+namespace ADOTest.Controllers
 {
     public class HomeController : Controller
     {
@@ -17,12 +16,6 @@ namespace Scaffolding.Controllers
         public IActionResult Index()
         {
             return View();
-        }
-
-        [HttpGet]
-        public IActionResult Dapper()
-        {
-            using (SqlConnection conexao =)
         }
 
         public IActionResult Privacy()

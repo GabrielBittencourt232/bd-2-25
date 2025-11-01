@@ -46,8 +46,7 @@
               "RelativeToolTip": "Aula01\\Views\\StudentCourses\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-27T00:24:14.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T00:24:14.097Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "Aula01\\Views\\StudentCourses\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-27T00:17:29.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T00:17:29.846Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "Aula01\\Repository\\StudentRepository.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAcwEUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T23:41:52.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T23:41:52.15Z"
             },
             {
               "$type": "Document",
@@ -85,8 +82,7 @@
               "RelativeToolTip": "Aula01\\Repository\\IStudentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T23:40:48.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T23:40:48.912Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "Aula01\\Controllers\\StudentCoursesController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwDYAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T22:31:32.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T22:31:32.022Z"
             }
           ]
         }

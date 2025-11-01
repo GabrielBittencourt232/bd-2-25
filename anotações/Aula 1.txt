@@ -22,3 +22,11 @@ Controller
 Repository
 |
 Model
+
+-----------------------
+
+Aula 31/10/2025
+Tarefa: Pesquisar sobre ADO.NET
+Access
+Data
+Objects
